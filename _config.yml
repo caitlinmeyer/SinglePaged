@@ -27,11 +27,11 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  yaleblue:      '#00356b'
+  yalelight:     '#286dc0'
+  yalesuperlight:    '#63aaff'
+  yalegreen:    '#5f712d'
+  yaleorange: '#bd5319'
 
 kramdown:
   auto_ids:  false
